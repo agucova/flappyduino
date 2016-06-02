@@ -11,7 +11,7 @@ Based on:
 1. Download [Processing](https://processing.org/download/) and Install.
 2. Upload the .ino code into your Arduino.
 3. Connect the arduino to the PC/Mac
-4. Run the Processing code
+4. Run the .pde (Processing)
 5. Assuming your circuit is ready, you are ready to play!
 
 
